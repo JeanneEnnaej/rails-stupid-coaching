@@ -13,3 +13,20 @@
  *= require_tree .
  *= require_self
  */
+
+ h1 {
+  margin: 50px;
+  padding-top: 50px;
+ }
+
+form {
+  margin: 50px;
+ }
+
+.card {
+  margin: 50px;
+}
+
+.btn-inverse {
+  margin-left: 50px;
+}
